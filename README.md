@@ -153,25 +153,15 @@ The API URL configured in the frontend must match the address and port used by t
 ## Application Screenshots
 
 
-### Fake News Detection
-
-![Fake News Detection](screenshots/fake-news-detection.png)
-
 ### Fake News Detection Result
 
 ![Fake News Result](screenshots/fake-news-result.png)
 
-### Deepfake Image Detection
-
-![Deepfake Image Detection](screenshots/image-detection.png)
 
 ### Deepfake Image Detection Result
 
 ![Image Detection Result](screenshots/image-result.png)
 
-### Deepfake Video Detection
-
-![Deepfake Video Detection](screenshots/video-detection.png)
 
 ### Deepfake Video Detection Result
 
